@@ -80,10 +80,10 @@ A **feed-forward neural network** built with TensorFlow/Keras:
 ## 📊 Output Visualizations
 
 ### 📌 Accuracy Over Epochs
-![Accuracy Plot](model/accuracy_plot.png)
+
 
 ### 📌 ROC Curve
-![ROC Curve](model/roc_curve.png)
+
 
 ---
 
