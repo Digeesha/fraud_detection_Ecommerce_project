@@ -1,0 +1,49 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.env
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+
+# Dataset
+*.csv
+*.tsv
+*.xlsx
+
+# Logs
+*.log
+
+# IDE configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node modules (if frontend in React)
+node_modules/
+build/
+dist/
+
+# Flask / React runtime
+*.db
+*.sqlite3
+*.pid
+*.egg-info/
+coverage/
+htmlcov/
