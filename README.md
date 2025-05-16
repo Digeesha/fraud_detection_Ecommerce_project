@@ -108,17 +108,8 @@ Smart contract handles:
 
 
 ## 🗂️ Project Structure
+![metamask](https://github.com/user-attachments/assets/b39bde8b-1a69-4726-8263-092d42575487)
 
-fraud_detection_ecommerce_project/
-├── backend/ # Flask backend for API
-│ └── app.py, train.py
-├── model/ # Trained model & assets
-│ └── fraud_model.h5, scaler.pkl, ohe_encoder.pkl, *.png
-├── dataset/ # Place your CSV here
-├── frontend/ # Optional React or HTML frontend
-├── requirements.txt # Python dependencies
-├── README.md
-└── .gitignore
 
 ---
 
