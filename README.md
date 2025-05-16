@@ -104,15 +104,6 @@ Smart contract handles:
 - Storing transaction hashes
 - Retrieving records for audit purposes
 
----
-
-
-## 🗂️ Project Structure
-![metamask](https://github.com/user-attachments/assets/b39bde8b-1a69-4726-8263-092d42575487)
-
-
----
-
 ## 🚀 How to Run the Project
 
 ### 1. 📦 Install Dependencies
